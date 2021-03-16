@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "5eZnnUEqwnxelpJ9No8qfFWXdSlao10SSpGf948m3RKN0g0hzOJT9xUrYvnw4rLqh7MCKCOQxqrrW97PFoo0pw==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\dibdbg\\source\\repos\\Cross-Platform User-Interface\\src\\Platform.Renderers\\src\\Maui.Controls.Compatibility\\Maui.Controls.Compatibility-net6.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1012",
+      "level": "Error",
+      "message": "Platform version is not present for one or more target frameworks, even though they have specified a platform: net6.0-ios, net6.0-android"
+    }
+  ]
+}

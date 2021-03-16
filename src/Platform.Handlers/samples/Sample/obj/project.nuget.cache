@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "478zYy9SyGKVf8kNqng0RV8QpPbuWzdV9xCC2szMpZQIAJHWgU1Ha1UPBvXzfdmPAfJeQY9ZNABhFmqwNo/ZbA==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\dibdbg\\source\\repos\\Cross-Platform User-Interface\\src\\Platform.Handlers\\samples\\Sample\\Sample-net6.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1012",
+      "level": "Error",
+      "message": "Platform version is not present for one or more target frameworks, even though they have specified a platform: net6.0-android, net6.0-ios"
+    }
+  ]
+}

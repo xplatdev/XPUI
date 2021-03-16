@@ -1,0 +1,11 @@
+Platform	Toolkit		.NET		C		C++		Objective-C	Swift		Ruby
+Unix/Linux	GTK+		C# + Gtk#	C + Gtk+	Gtkmm		coregtk		SwiftGtk	Ruby/Gtk
+Windows		WinUI		WinUI		windows.h	WinUI		windows.h	windows.h	windows-api
+MacOs		Cocoa		MAUI/Cocoa#	SwiftUI		Objective-C++	ApplicationKit	SwiftUI		RubyCocoa
+iOS		Cocoa Touch	MAUI/Cocoa#	SwiftUI		Objective-C++	ApplicationKit	SwiftUI		RubyCocoa
+Android		Android	UI	MAUI		SWIG + MAUI	C++/CLI + MAUI	WinObjC + MAUI	WinObjC + MAUI	JRuby
+
+Abbreviations:
+C× (cdoublesharp): - C++/CLI / - C++ language bindings for C#
+Cₒ (cobjective): WinObjC / - Objective-C language bindings for C#
+C♭: C/CLI - Ansi C language bindings for C# - hypotetisk - alternativt P/Invoke eller C++/CLI wrapper

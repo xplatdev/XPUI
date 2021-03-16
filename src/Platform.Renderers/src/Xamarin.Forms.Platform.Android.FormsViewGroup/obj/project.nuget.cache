@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "/2gD3GwC65Z7wilIzHdhsgygv34aeAiyeAm0aJtYqiKVLi58fuKC5mVOGJpf4lulIdqQJ7z+86C9F4N4yNMPhA==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\dibdbg\\source\\repos\\Cross-Platform User-Interface\\src\\Platform.Renderers\\src\\Xamarin.Forms.Platform.Android.FormsViewGroup\\Xamarin.Forms.Platform.Android.FormsViewGroup-net6.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1012",
+      "level": "Error",
+      "message": "Platform version is not present for one or more target frameworks, even though they have specified a platform: net6.0-android"
+    }
+  ]
+}
